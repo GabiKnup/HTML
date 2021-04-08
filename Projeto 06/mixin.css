@@ -1,0 +1,22 @@
+.erro {
+  color: red;
+  font-size: 12px;
+  background-color: #EFEFEF;
+}
+
+.sucesso {
+  color: green;
+  font-size: 13px;
+  font-family: Roboto;
+}
+
+.destaque {
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.alerta {
+  color: black;
+  background-color: yellow;
+}
